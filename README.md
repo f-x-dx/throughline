@@ -28,7 +28,7 @@ Both skills require [Claude Code](https://claude.ai/code).
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/chewkaah/throughline.git /tmp/throughline
+git clone https://github.com/f-x-dx/throughline.git /tmp/throughline
 
 # 2. Copy the skill folders into your global Claude skills directory
 mkdir -p ~/.claude/skills
@@ -58,7 +58,7 @@ If you are a coding agent (Claude Code, etc.) installing this for a user, run th
 ### Step 2 — Fetch the skills
 
 ```bash
-git clone https://github.com/chewkaah/throughline.git /tmp/throughline
+git clone https://github.com/f-x-dx/throughline.git /tmp/throughline
 ```
 
 ### Step 3 — Copy into the skills directory
